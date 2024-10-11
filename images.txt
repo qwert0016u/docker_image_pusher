@@ -1,4 +1,4 @@
 #支持私库
-continuumio/anaconda3:2024.06-1
+neo4j:5.24.1-community-bullseye
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
