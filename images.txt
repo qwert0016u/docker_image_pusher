@@ -1,5 +1,6 @@
 #支持私库
-neo4j:5.23.0-enterprise
-neo4j:5.23.0-community
+python:3.10
+python:3.9
+python:3.8
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
