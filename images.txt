@@ -1,4 +1,4 @@
 #支持私库
-ollama/ollama:0.5.7
+bytemark/webdav:2.4
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
