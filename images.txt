@@ -1,4 +1,4 @@
 #支持私库
-debian:11-slim
+enwaiax/x-ui:3x-ui
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
