@@ -1,4 +1,4 @@
 #支持私库
-pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
+enwaiax/x-ui:alpha-zh
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
