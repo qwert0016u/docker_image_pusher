@@ -1,7 +1,5 @@
 #支持私库
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.12
+zilliz/attu:v2.3.9
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
