@@ -1,5 +1,6 @@
 #支持私库
-zilliz/attu:v2.3.9
+crystallang/crystal:1.12.2-alpine
+alpine:3.20
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
