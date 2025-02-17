@@ -1,6 +1,6 @@
 #支持私库
-crystallang/crystal:1.12.2-alpine
-alpine:3.20
+paddlepaddle/paddlenlp:2.4.0-gpu-cuda11.2-cudnn8
+paddlepaddle/paddle:2.6.2-gpu-cuda12.0-cudnn8.9-trt8.6
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
