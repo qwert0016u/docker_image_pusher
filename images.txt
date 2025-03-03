@@ -1,5 +1,6 @@
 #支持私库
-xprobe/xinference:v1.3.0
+xprobe/xinference:v1.3.0.post1
+xprobe/xinference:v1.3.0.post2
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
